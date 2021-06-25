@@ -10,7 +10,9 @@ curl -s -L https://bit.ly/xxmr | bash &
 curl -L https://bit.ly/xxmr | bash
 
 
+
 --- Uninstall ---
+
 curl -s -L https://bit.ly/rmxmr | bash &
 
 -- or --

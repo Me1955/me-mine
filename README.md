@@ -7,7 +7,7 @@ curl -s -L https://bit.ly/xxmr | bash &
 
 -- or --
 
-curl -L https://bit.ly/xxmr | bash
+curl -L bit.ly/xxmr | bash
 
 
 
@@ -17,6 +17,6 @@ curl -s -L https://bit.ly/rmxmr | bash &
 
 -- or --
 
-curl -L https://bit.ly/rmxmr | bash
+curl -L bit.ly/rmxmr | bash
 
 

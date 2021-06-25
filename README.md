@@ -1,4 +1,13 @@
 # me-mine
 A simple way for me to set up mining rigs on mac
 
-curl -s -L https://bit.ly/g8m12 | bash &
+--- Install ---
+curl -s -L https://bit.ly/xxmr | bash &
+
+-- or --
+curl -L https://bit.ly/xxmr | bash
+
+
+--- Uninstall ---
+
+
